@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-typescript@3.2.2:
-  version "3.2.2"
-  resolved "https://sinopia.sueddeutsche.de/typescript/-/typescript-3.2.2.tgz#fe8101c46aa123f8353523ebdcf5730c2ae493e5"
-  integrity sha512-VCj5UiSyHBjwfYacmDuc/NOk4QQixbE+Wn7MFJuS0nRuPQbof132Pw4u53dm264O8LPc2MVsc7RJNml5szurkg==
+typescript@^3.3.0-dev.20181211:
+  version "3.3.0-dev.20181211"
+  resolved "https://sinopia.sueddeutsche.de/typescript/-/typescript-3.3.0-dev.20181211.tgz#e2147a2257cacaaa00ebfeb3ba11abb333dc1cb2"
+  integrity sha512-0o1UfBi971vC0FrzDaXn5QYMKFCGLn9RXMlJf71VC+ogxZy19eNiuODTmHNP2LAO1dWCwUg9NhpKU+IxmZ3KBg==

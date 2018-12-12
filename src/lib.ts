@@ -1,8 +1,7 @@
-import { PointDocument } from "./interfaces/PointDocument";
+import { PointWrapper } from "./interfaces/PointWrapper";
 
-export function getPoint(): PointDocument {
+export function getPoint(): PointWrapper {
     return {
-        _id: "1234",
         name: "test",
         c: {
             x: 1,

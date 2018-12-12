@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "UNLICENSED",
   "dependencies": {
-    "typescript": "3.2.2"
+    "typescript": "^3.3.0-dev.20181211"
   }
 }
