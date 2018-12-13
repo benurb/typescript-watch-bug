@@ -2,7 +2,6 @@
 # yarn lockfile v1
 
 
-typescript@^3.3.0-dev.20181211:
-  version "3.3.0-dev.20181211"
-  resolved "https://sinopia.sueddeutsche.de/typescript/-/typescript-3.3.0-dev.20181211.tgz#e2147a2257cacaaa00ebfeb3ba11abb333dc1cb2"
-  integrity sha512-0o1UfBi971vC0FrzDaXn5QYMKFCGLn9RXMlJf71VC+ogxZy19eNiuODTmHNP2LAO1dWCwUg9NhpKU+IxmZ3KBg==
+"typescript@https://github.com/Microsoft/TypeScript.git#tscWatchExportUpdate":
+  version "3.3.0"
+  resolved "https://github.com/Microsoft/TypeScript.git#f97a2b3f904b6194deea7166d083ea2b124bcd15"
